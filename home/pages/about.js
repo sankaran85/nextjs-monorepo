@@ -7,7 +7,7 @@ const About = () => (
         <title>About</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-    <p className={styles.container}>This is the about page new da.</p>
+    <p className={styles.container}>This is the about page new da. yeah</p>
     <div>
       <Link href="/">
         <a>Go Back</a>
